@@ -1,0 +1,28 @@
+{
+  "name": "jquery-project",
+  "authors": [
+    "zeineb"
+  ],
+  "description": "simple project jquery",
+  "main": "index.html",
+  "keywords": [
+    "jquery",
+    "script",
+    "project",
+    "bower",
+    "git"
+  ],
+  "license": "MIT",
+  "homepage": "index",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "font-awsome#^4.7.0"
+  }
+}
